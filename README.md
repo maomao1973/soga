@@ -1,5 +1,5 @@
 ``` bash
-sudo bash < <(curl -Ls https://raw.githubusercontent.com/maomao1973/crack-soga-v2ray/master/install.sh)
+sudo bash < <(curl -Ls https://raw.githubusercontent.com/maomao1973/soga/master/install.sh)
 ```
  /etc/soga/soga.conf<br/>
 ws 示例<br/>
